@@ -1,0 +1,9 @@
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\bin\Debug\netstandard2.0\Puntentelling.deps.json
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\bin\Debug\netstandard2.0\Puntentelling.dll
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\bin\Debug\netstandard2.0\Puntentelling.pdb
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\obj\Debug\netstandard2.0\Puntentelling.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\obj\Debug\netstandard2.0\Puntentelling.AssemblyInfoInputs.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\obj\Debug\netstandard2.0\Puntentelling.AssemblyInfo.cs
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\obj\Debug\netstandard2.0\Puntentelling.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\obj\Debug\netstandard2.0\Puntentelling.dll
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\Puntentelling\obj\Debug\netstandard2.0\Puntentelling.pdb

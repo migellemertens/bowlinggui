@@ -1,0 +1,15 @@
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\bin\Debug\BowlingGUI.exe.config
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\bin\Debug\BowlingGUI.exe
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\bin\Debug\BowlingGUI.pdb
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.csprojAssemblyReference.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\MainWindow.g.cs
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\App.g.cs
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI_MarkupCompile.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI_MarkupCompile.lref
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\MainWindow.baml
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.g.resources
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.Properties.Resources.resources
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.csproj.GenerateResource.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.csproj.CoreCompileInputs.cache
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.exe
+C:\Users\migelle\Documents\Development\C# Personal\BowlingGUI\BowlingGUI\obj\Debug\BowlingGUI.pdb

@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "rOLrr9B4B8kC5oFtO1InMxLjCOmEHiCt614CNUwX3E7XKROHTvxt4z1pweLPrvsECid2cP+Mc/ZbNh6hge8MRw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\migelle\\Documents\\Development\\C# Personal\\BowlingGUI\\Puntentelling\\Puntentelling.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\migelle\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\migelle\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
