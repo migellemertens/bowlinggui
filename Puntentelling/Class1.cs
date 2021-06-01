@@ -1,4 +1,4 @@
-﻿using System;
+using System;
 using System.Windows;
 using System.Collections.Generic;
 
@@ -8,44 +8,30 @@ namespace Puntentelling
     {
         private List<int> scoreLijst = new List<int>();
         private int totaleScoreWorp;
-        private int scoreWorp1;
-        private int scoreWorp2;
+        private int scoreWorp;
         private bool isStrike = false;
         private bool isSpare = false;
         private int worpNummer = 0;
 
-        public Class1(int scoreWorp1, bool isStrike)
+        public Class1(int scoreWorp, bool isStrike, bool isSpare)
         {
-            this.scoreWorp1 = scoreWorp1;
-            isStrike = true;
-        }
-
-        public Class1(int scoreWorp1, int scoreWorp2, bool isSpare)
-        {
-            this.scoreWorp1 = scoreWorp1;
-            this.scoreWorp2 = scoreWorp2;
-            this.isSpare = true;
+            this.scoreWorp = scoreWorp;
+			this.isStrike = isStrike;
+            this.isSpare = isSpare;
 
         }
+		
+		private void VoegScoreToeAanLijst(){
+			if(isStrike == true && scoreLijst.Count() > 0){
+				this.totaleScoreWorp = this.totaleScoreWorp + scoreLijst[worpNummer - 1];
+			}
+			if(isSpare == true && scoreLijst.Count() > 0){
+				this.totaleScoreWorp = this.totaleScoreWorp + scoreLijst[worpNummer - 1];
+			}
+			
+			ScoreLijst.Add(totaleScoreWorp);
+			this.worpNummer++;
+		}
 
-        private void BerekenScore()
-        {
-            if (!isSpare)
-            {
-                totaleScoreWorp = this.scoreWorp1 + this.scoreWorp2;
-            }
-            if (isSpare)
-            {
-                totaleScoreWorp = this.scoreWorp1 + this.scoreWorp2 + scoreLijst[worpNummer - 1];
-            }
-            if (isStrike)
-            {
-                totaleScoreWorp = this.scoreWorp1 + 10;
-            }
-            scoreLijst.Add(totaleScoreWorp);
-            isSpare = false;
-            isStrike = false;
-            this.worpNummer++;
-        }
     }
 }
